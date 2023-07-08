@@ -1,8 +1,8 @@
 {
   "name": "@neslihankara/homebridge-miot",
-  "displayName": "Homebridge Miot",
-  "version": "1.6.1",
-  "description": "Homebridge plugin for devices supporting the miot protocol",
+  "displayName": "Homebridge Miot and more",
+  "version": "1.6.2",
+  "description": "Homebridge plugin for devices supporting the miot protocol, with more devices",
   "main": "index.js",
   "engines": {
     "node": ">=16.0.0",
