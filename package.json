@@ -43,7 +43,7 @@
     "light",
     "yeelink"
   ],
-  "author": "merdok",
+  "author": "neslihankara",
   "license": "MIT",
   "dependencies": {
     "@homebridge/plugin-ui-utils": "^0.0.19",
